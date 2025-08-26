@@ -1,6 +1,6 @@
 # TypeScript Course
 
-<img src="Typescript.svg.png" style="width:100px;height:100px" align="right">
+<img src="Typescript.png" style="width:100px;height:100px" align="right">
 
 Este repositório documenta minha jornada de aprendizado em **TypeScript**, reunindo conteúdos e exercícios realizados durante o curso da **Udemy** e também de materiais complementares de outras fontes.  
 
